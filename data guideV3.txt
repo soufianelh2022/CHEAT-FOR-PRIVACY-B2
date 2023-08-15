@@ -41,13 +41,13 @@
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"In the modern digital age, the concept of privacy has become increasingly complex and fragile ",
+   "photo1":"https://iili.io/HDU04tV.webp"},
+  {"desc2":"The rapid advancement of technology has given rise to new challenges and concerns regarding the safeguarding of personal information","photo2":"https://iili.io/HDU0PoB.webp"},
+  {"desc3":"Among these challenges, the issue of privacy breaches and the potential "cheating" of privacy has gained significant attention","photo3":"https://iili.io/HDU0gAx.webp"},
+  {"desc4":"This essay delves into the multifaceted landscape of privacy breaches, the ethical considerations surrounding them","photo4":"https://iili.io/HDU0rwQ.webp"},
+  {"desc5":"The evolution of privacy has closely mirrored the growth of the digital era. With the advent of the internet and the proliferation of smartphones","photo5":"https://iili.io/HDU0iMP.webp"},
+  {"descd":"individuals are constantly generating vast amounts of data, often without full awareness of its implications","photod":"https://iili.io/HDU0sP1.webp"}
    ]
  
 }
